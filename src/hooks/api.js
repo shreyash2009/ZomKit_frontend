@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:5000/api/v1/';
+const BASE_URL = 'https://zomkit-backend.onrender.com/api/v1/';
 
 export const loginApi = async (formData) => {
   try {
